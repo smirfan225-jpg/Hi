@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Glacial Frontier: Echoes of the Ice Age",
+  "description": "An immersive survival adventure game set in a prehistoric frozen wilderness. Navigate lush frozen forests, interact with ancient megafauna, and survive the biting cold using AI-driven narratives.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
